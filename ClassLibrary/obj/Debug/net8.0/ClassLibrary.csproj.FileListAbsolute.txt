@@ -1,0 +1,15 @@
+D:\GitHUB\VentaJuegos-Final\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.AssemblyReference.cache
+D:\GitHUB\VentaJuegos-Final\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHUB\VentaJuegos-Final\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\GitHUB\VentaJuegos-Final\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+D:\GitHUB\VentaJuegos-Final\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\GitHUB\VentaJuegos-Final\ClassLibrary\obj\Debug\net8.0\ClassLibrary.sourcelink.json
+D:\GitHUB\VentaJuegos-Final\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+D:\GitHUB\VentaJuegos-Final\ClassLibrary\bin\Debug\net8.0\ClassLibrary.runtimeconfig.json
+D:\GitHUB\VentaJuegos-Final\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+D:\GitHUB\VentaJuegos-Final\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+D:\GitHUB\VentaJuegos-Final\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+D:\GitHUB\VentaJuegos-Final\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+D:\GitHUB\VentaJuegos-Final\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+D:\GitHUB\VentaJuegos-Final\ClassLibrary\obj\Debug\net8.0\ClassLibrary.genruntimeconfig.cache
+D:\GitHUB\VentaJuegos-Final\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll
